@@ -8,7 +8,9 @@ const Cour_1 = () => {
    <Container fluid>
       <Row>
         <Col>
-          
+          <div>
+            helllo
+          </div>
         </Col>
         <Col>
         hdjk</Col>
